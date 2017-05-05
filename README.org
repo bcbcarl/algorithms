@@ -1,14 +1,15 @@
 #+AUTHOR: Carl Su
 #+TITLE: Algorithms
 
-|    # | Title                             | Solution        |
-|------+-----------------------------------+-----------------|
-|  3.6 | [[http://interactivepython.org/runestone/static/pythonds/BasicDS/SimpleBalancedParentheses.html][Simple Balanced Parentheses]]       | [[./parcheck1/parChecker.h][parChecker.h]]    |
-|  3.7 | [[http://interactivepython.org/runestone/static/pythonds/BasicDS/BalancedSymbols(AGeneralCase).html][Balanced Symbols (A General Case)]] | [[./parcheck2/parChecker.h][parChecker.h]]    |
-|  5.4 | [[http://interactivepython.org/runestone/static/pythonds/SortSearch/TheBinarySearch.html][The Binary Search]]                 | [[./binary-search/binarySearch.h][binarySearch.h]]  |
-|  5.7 | [[http://interactivepython.org/runestone/static/pythonds/SortSearch/TheBubbleSort.html][The Bubble Sort]]                   | [[./bubble-sort/bubbleSort.h][bubbleSort.h]]    |
-|  5.8 | [[http://interactivepython.org/runestone/static/pythonds/SortSearch/TheSelectionSort.html][The Selection Sort]]                | [[./selection-sort/selectionSort.h][selectionSort.h]] |
-|  5.9 | [[http://interactivepython.org/runestone/static/pythonds/SortSearch/TheInsertionSort.html][The Insertion Sort]]                | [[./insertion-sort/insertionSort.h][insertionSort.h]] |
-| 5.10 | [[http://interactivepython.org/runestone/static/pythonds/SortSearch/TheShellSort.html][The Shell Sort]]                    |                 |
-| 5.11 | [[http://interactivepython.org/runestone/static/pythonds/SortSearch/TheMergeSort.html][The Merge Sort]]                    |                 |
-| 5.12 | [[http://interactivepython.org/runestone/static/pythonds/SortSearch/TheQuickSort.html][The Quick Sort]]                    |                 |
+|    # | Title                             | Solution         |
+|------+-----------------------------------+------------------|
+|  3.6 | [[http://interactivepython.org/runestone/static/pythonds/BasicDS/SimpleBalancedParentheses.html][Simple Balanced Parentheses]]       | [[./parcheck1/parChecker.h][parChecker.h]]     |
+|  3.7 | [[http://interactivepython.org/runestone/static/pythonds/BasicDS/BalancedSymbols(AGeneralCase).html][Balanced Symbols (A General Case)]] | [[./parcheck2/parChecker.h][parChecker.h]]     |
+|  5.3 | [[http://interactivepython.org/runestone/static/pythonds/SortSearch/TheSequentialSearch.html][The Sequential Search]]             | [[./linear-search/linear_search.h][linear_search.h]]  |
+|  5.4 | [[http://interactivepython.org/runestone/static/pythonds/SortSearch/TheBinarySearch.html][The Binary Search]]                 | [[./binary-search/binary_search.h][binary_search.h]]  |
+|  5.7 | [[http://interactivepython.org/runestone/static/pythonds/SortSearch/TheBubbleSort.html][The Bubble Sort]]                   | [[./bubble-sort/bubble_sort.h][bubble_sort.h]]    |
+|  5.8 | [[http://interactivepython.org/runestone/static/pythonds/SortSearch/TheSelectionSort.html][The Selection Sort]]                | [[./selection-sort/selection_sort.h][selection_sort.h]] |
+|  5.9 | [[http://interactivepython.org/runestone/static/pythonds/SortSearch/TheInsertionSort.html][The Insertion Sort]]                | [[./insertion-sort/insertion_sort.h][insertion_sort.h]] |
+| 5.10 | [[http://interactivepython.org/runestone/static/pythonds/SortSearch/TheShellSort.html][The Shell Sort]]                    | [[./shell-sort/shell_sort.h][shell_sort.h]]     |
+| 5.11 | [[http://interactivepython.org/runestone/static/pythonds/SortSearch/TheMergeSort.html][The Merge Sort]]                    | [[./merge-sort/merge_sort.h][merge_sort.h]]     |
+| 5.12 | [[http://interactivepython.org/runestone/static/pythonds/SortSearch/TheQuickSort.html][The Quick Sort]]                    |                  |

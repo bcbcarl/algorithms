@@ -1,26 +1,16 @@
 #include <iostream>
 #include <vector>
-#include "bubbleSort.h"
-
-void printResult(const std::vector<int>& list);
+#include "bubble_sort.h"
 
 int main() {
   std::vector<int> list = { 54, 26, 93, 17, 77, 31, 44, 55, 20 };
 
   std::cout << "Before: ";
-  printResult(list);
+  carl::print_result(list.begin(), list.end());
 
   std::cout << "After : ";
-  carl::BubbleSort bs(&list);
-  bs.sort();
-  printResult(list);
+  carl::bubble_sort(list.begin(), list.end());
+  carl::print_result(list.begin(), list.end());
 
   return 0;
-}
-
-void printResult(const std::vector<int>& list) {
-  for (auto i : list) {
-    std::cout << i << " ";
-  }
-  std::cout << std::endl;
 }

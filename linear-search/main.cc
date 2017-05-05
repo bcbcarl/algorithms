@@ -1,6 +1,6 @@
 #include <algorithm>
 #include <iostream>
-#include "binary_search.h"
+#include "linear_search.h"
 
 int main() {
   const std::vector<int> list = { 17, 20, 26, 31, 44, 54, 55, 65, 77, 93 };
