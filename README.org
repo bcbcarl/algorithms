@@ -6,6 +6,7 @@
 |  2.4 | [[http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/AnAnagramDetectionExample.html][Anagram Detection]]                 | [[./anagram/anagram.h][anagram.h]]        |
 |  3.6 | [[http://interactivepython.org/runestone/static/pythonds/BasicDS/SimpleBalancedParentheses.html][Simple Balanced Parentheses]]       | [[./parcheck1/parChecker.h][parChecker.h]]     |
 |  3.7 | [[http://interactivepython.org/runestone/static/pythonds/BasicDS/BalancedSymbols(AGeneralCase).html][Balanced Symbols (A General Case)]] | [[./parcheck2/parChecker.h][parChecker.h]]     |
+| 3.18 | [[http://interactivepython.org/runestone/static/pythonds/BasicDS/PalindromeChecker.html][Palindrome-Checker]]                |                  |
 |  5.3 | [[http://interactivepython.org/runestone/static/pythonds/SortSearch/TheSequentialSearch.html][The Sequential Search]]             | [[./linear-search/linear_search.h][linear_search.h]]  |
 |  5.4 | [[http://interactivepython.org/runestone/static/pythonds/SortSearch/TheBinarySearch.html][The Binary Search]]                 | [[./binary-search/binary_search.h][binary_search.h]]  |
 |  5.7 | [[http://interactivepython.org/runestone/static/pythonds/SortSearch/TheBubbleSort.html][The Bubble Sort]]                   | [[./bubble-sort/bubble_sort.h][bubble_sort.h]]    |
