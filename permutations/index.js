@@ -1,3 +1,4 @@
+// Heap's algorithm
 const perm = (list) => {
   let result = [];
 
@@ -16,7 +17,7 @@ const perm = (list) => {
     generate(n - 1, list);
   };
 
-  generate(list.length, list);
+  generate(list.length, list.slice());
   return result;
 };
 
